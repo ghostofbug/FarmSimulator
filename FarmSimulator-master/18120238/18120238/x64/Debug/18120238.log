@@ -1,0 +1,3 @@
+﻿  AnotherFunction.cpp
+C:\Users\Thanh\Desktop\FarmSimulator-master\18120238\18120238\AnotherFunction.cpp(5): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  18120238.vcxproj -> C:\Users\Thanh\Desktop\FarmSimulator-master\18120238\x64\Debug\18120238.exe
